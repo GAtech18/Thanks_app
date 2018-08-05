@@ -224,6 +224,17 @@ header nav ul li a:hover {
 }
 
 
+p1 {
+  padding-top: .5em;
+}
+p1 span {
+  display: block;
+  margin-top: .2em;
+  color: #aaa;
+  font-size: .9em;
+}
+
+
 /* footer */
 
 footer {
